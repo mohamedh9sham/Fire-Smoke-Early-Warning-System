@@ -15,7 +15,7 @@ FireGuard is a modern, full-stack, AI-powered early warning system designed for 
 | [BahaaAlna](https://github.com/BahaaAlna) | **Frontend & DevOps** | Creating front-end layouts, component structure, CI/CD pipeline, and deployment. |
 | [devElyas](https://github.com/devElyas) | **Frontend Developer** | Coding the live camera stream viewer, stats logger, and interactive UI components. |
 | [islam-3](https://github.com/islam-3) | **UI / UX Designer** | Crafting premium aesthetics, design tokens, color palette, and user flows. |
-| [balckBird1to](https://github.com/balckBird1to) | **Documentation & Testing** | Creating high-quality project documentation, test scripts, and system validation. |
+| [balckBird1to](https://github.com/blackBird1to) | **Documentation & Testing** | Creating high-quality project documentation, test scripts, and system validation. |
 
 ---
 
